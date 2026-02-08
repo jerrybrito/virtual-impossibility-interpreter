@@ -1,0 +1,2 @@
+# Requires: hypothetical-delay
+# (Not available on PyPI)
